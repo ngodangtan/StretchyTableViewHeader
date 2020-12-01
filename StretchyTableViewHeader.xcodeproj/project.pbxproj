@@ -13,6 +13,7 @@
 		D6B54B35257639C800B90821 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6B54B33257639C800B90821 /* Main.storyboard */; };
 		D6B54B37257639C900B90821 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6B54B36257639C900B90821 /* Assets.xcassets */; };
 		D6B54B3A257639C900B90821 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6B54B38257639C900B90821 /* LaunchScreen.storyboard */; };
+		D6B54B4325763DA800B90821 /* StretchyTableHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B54B4225763DA800B90821 /* StretchyTableHeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D6B54B36257639C900B90821 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D6B54B39257639C900B90821 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D6B54B3B257639C900B90821 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6B54B4225763DA800B90821 /* StretchyTableHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StretchyTableHeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				D6B54B2D257639C800B90821 /* AppDelegate.swift */,
+				D6B54B4225763DA800B90821 /* StretchyTableHeaderView.swift */,
 				D6B54B2F257639C800B90821 /* SceneDelegate.swift */,
 				D6B54B31257639C800B90821 /* ViewController.swift */,
 				D6B54B33257639C800B90821 /* Main.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				D6B54B32257639C800B90821 /* ViewController.swift in Sources */,
 				D6B54B2E257639C800B90821 /* AppDelegate.swift in Sources */,
+				D6B54B4325763DA800B90821 /* StretchyTableHeaderView.swift in Sources */,
 				D6B54B30257639C800B90821 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
